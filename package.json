@@ -1,0 +1,17 @@
+{
+  "name": "handlebars-parcel-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "handlebars": "^4.7.8",
+    "parcel": "^2.12.0",
+    "parcel-transformer-hbs": "^1.0.4"
+  }
+}
